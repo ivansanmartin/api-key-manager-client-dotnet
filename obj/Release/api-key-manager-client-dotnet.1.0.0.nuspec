@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>api-key-manager-client-dotnet</id>
+    <version>1.0.0</version>
+    <authors>api-key-manager-client-dotnet</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\bin\Release\net8.0\api-key-manager-client-dotnet.dll" target="lib\net8.0\api-key-manager-client-dotnet.dll" />
+  </files>
+</package>

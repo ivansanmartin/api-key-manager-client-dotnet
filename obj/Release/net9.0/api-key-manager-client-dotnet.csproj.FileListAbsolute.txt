@@ -1,0 +1,11 @@
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\bin\Release\net9.0\api-key-manager-client-dotnet.deps.json
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\bin\Release\net9.0\api-key-manager-client-dotnet.dll
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\bin\Release\net9.0\api-key-manager-client-dotnet.pdb
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.AssemblyInfo.cs
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.dll
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\refint\api-key-manager-client-dotnet.dll
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\api-key-manager-client-dotnet.pdb
+C:\Users\Ivan\Documents\Ivan workspace\01 Projects\api-key-manager-client-dotnet\obj\Release\net9.0\ref\api-key-manager-client-dotnet.dll
